@@ -34,3 +34,4 @@
 // console.log('abc'.concat('xyz'));
 
 console.log('binhcute'.substring(0,4))
+console.log('hieucute'.substring(0,4))

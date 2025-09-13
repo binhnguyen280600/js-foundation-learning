@@ -61,4 +61,4 @@ let a = 5;
 // console.log(a%2==0 || a<6);
 console.log(!(a>6));
 
-// Hieu
+// Hieu da o day
